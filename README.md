@@ -37,6 +37,12 @@ Ensure you have Python 3.x installed. You will likely need the following standar
 2. scikit-learn (for standard SVM comparison)
 
 3. matplotlib (for visualization)
+   
+4. pandas (for processing the dataframe)
+
+5. ucimlrepo (for downloading the dataset from the UCI repository)
+
+6. scipy (for calculating the GEP in GEPSVM)
 
 4. pandas (for processing the dataframe)
 
