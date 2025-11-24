@@ -44,12 +44,6 @@ Ensure you have Python 3.x installed. You will likely need the following standar
 
 6. scipy (to calculate the generalized eigenvalue problem (GEP) in GEPSVM)
 
-# For 'twsvm.py' File
-
-Install dependencies:
-
-pip install numpy pandas scikit-learn scipy matplotlib seaborn
-
 ### Installation
 
 1. Clone the repository:
@@ -71,6 +65,31 @@ python StandardSVM.py
 To run the GEPSVM model implementation:
 
 python GEPSVM.py
+
+## For 'twsvm.py' File:
+
+Install dependencies:
+
+```pip install numpy pandas scikit-learn scipy matplotlib seaborn```
+
+Run the code:
+
+```python twsvm_implementation.py```
+
+The script will:
+
+1. Download all 8 datasets from UCI repository
+
+2. Run TWSVM evaluation with 5-fold cross validation
+
+3. Compare results with paper's reported SVM timings
+
+4. Print performance summary to console
+
+5. Save detailed results to twsvm_results.csv
+
+Output Files Generated
+twsvm_results.csv 
 
 ## Contributors 
 1. Aung Phone Pyae 
