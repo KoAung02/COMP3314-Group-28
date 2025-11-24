@@ -42,7 +42,7 @@ Ensure you have Python 3.x installed. You will likely need the following standar
 
 5. ucimlrepo (for downloading the dataset from the UCL Repository)
 
-6. scipy (to calculate the generalized Eigenvalue Proximal Support Vector Machine (GEPSVM))
+6. scipy (to calculate the generalized eigenvalue problem (GEP) in GEPSVM)
 
 ### Installation
 
