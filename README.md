@@ -56,5 +56,9 @@ To run the Standard SVM baseline implementation:
 
 python StandardSVM.py
 
+## Contributors 
+1. Aung Phone Pyae 
+2. 
+
 
 
