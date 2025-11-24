@@ -42,7 +42,7 @@ Ensure you have Python 3.x installed. You will likely need the following standar
 
 5. ucimlrepo (for downloading the dataset from the UCL Repository)
 
-6. scipy (to calculate the generalized Eigenvalue Proximal Support Vector Machine (GEPSVM)
+6. scipy (to calculate the generalized Eigenvalue Proximal Support Vector Machine (GEPSVM))
 
 ### Installation
 
@@ -61,6 +61,10 @@ pip install numpy pandas scikit-learn matplotlib ucimlrepo scipy
 To run the Standard SVM baseline implementation:
 
 python StandardSVM.py
+
+To run the GEPSVM model implementation:
+
+python GEPSVM.py
 
 ## Contributors 
 1. Aung Phone Pyae 
