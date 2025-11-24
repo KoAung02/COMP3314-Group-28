@@ -38,6 +38,12 @@ Ensure you have Python 3.x installed. You will likely need the following standar
 
 3. matplotlib (for visualization)
 
+4. pandas (for processing the dataframe)
+
+5. ucimlrepo (for downloading the dataset from the UCL Repository)
+
+6. scipy (to calculate the generalized Eigenvalue Proximal Support Vector Machine (GEPSVM)
+
 ### Installation
 
 1. Clone the repository:
@@ -48,7 +54,7 @@ cd COMP3314-Group-28
 
 2. Install dependencies:
 
-pip install numpy scikit-learn matplotlib
+pip install numpy pandas scikit-learn matplotlib ucimlrepo scipy
 
 ### Running the Code
 
@@ -58,7 +64,7 @@ python StandardSVM.py
 
 ## Contributors 
 1. Aung Phone Pyae 
-2. 
+2. Chung Kam Hong
 
 
 
