@@ -44,7 +44,7 @@ Ensure you have Python 3.x installed. You will likely need the following standar
 
 6. scipy (to calculate the generalized eigenvalue problem (GEP) in GEPSVM)
 
-## For 'twsvm.py' File
+# For 'twsvm.py' File
 
 Install dependencies:
 
