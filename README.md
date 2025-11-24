@@ -69,6 +69,8 @@ python GEPSVM.py
 ## Contributors 
 1. Aung Phone Pyae 
 2. Chung Kam Hong
+3. Shreyansh Mishra
+   
 
 
 
